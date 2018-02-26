@@ -1,0 +1,16 @@
+{
+    "name": "moonshot",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Avi",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "amazon-product-api": "^0.4.4",
+        "express": "^4.16.2",
+        "mongoose": "^5.0.7"
+    },
+    "description": ""
+}
